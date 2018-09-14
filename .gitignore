@@ -1,0 +1,15 @@
+target
+*.iml
+*.ipr
+*.iws
+.idea
+.classpath
+.project
+.settings
+.DS_Store
+*.xml.versionsBackup
+*.bpmn/
+/userguide/src/en/index.html
+migration.html
+/modules/**/bin
+/bpms-portal-app/src/main/ui/model/bpms-models.ts
